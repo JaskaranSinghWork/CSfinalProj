@@ -1,0 +1,2 @@
+Assignment|CS Assignment|Programming project|4|CS202|2025-05-20
+StudySession|Java Study|Practice Java basics|2|Java Programming|60
